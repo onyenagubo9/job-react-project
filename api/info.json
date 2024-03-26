@@ -1,0 +1,36 @@
+{
+   "cards":[
+    {
+        "_id": 1,
+        "name": "Users",
+        "icon":"bi bi-person",
+        "amount": 2453,
+        "percentage": 0.9,
+        "active": true
+    },
+    {
+        "_id": 2,
+        "name": "Active users",
+        "icon":"bi bi-person-rolodex",
+        "amount": 2453,
+        "percentage": 0.08,
+        "active": false
+    },
+    {
+        "_id": 3,
+        "name": "Users with loans",
+        "icon":"bi bi-person-fill-slash",
+        "amount": 12453,
+        "percentage": 0.12,
+        "active": true
+    },
+    {
+        "_id": 4,
+        "name": "users with savings",
+        "icon":"bi bi-person-vcard",
+        "amount": 102453,
+        "percentage": 0.12,
+        "active": true
+    }
+   ]
+}
